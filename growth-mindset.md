@@ -10,8 +10,6 @@ but when you start training your mind to become more as a *growth mindset* you a
 ![1](https://tofasakademi.com/wp-content/uploads/2019/06/growth-mindset3.png)
 
 ## Differences between fixed mindset and growth mindset:
-[The differences between a fixed and growth mindset](https://pragmaticthinking.com/blog/fixed-and-growth-mindset/)
-
 
 | Fixed        | growth |
 | ------------ | ------------- |
