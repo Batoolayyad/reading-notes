@@ -11,6 +11,8 @@ but when you start training your mind to become more as a *growth mindset* you a
 
 ## Differences between fixed mindset and growth mindset:
 [The differences between a fixed and growth mindset](https://pragmaticthinking.com/blog/fixed-and-growth-mindset/)
+
+
 | Fixed        | growth |
 | ------------ | ------------- |
 | Avoids challenges | Embraces challenges |
