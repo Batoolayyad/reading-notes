@@ -11,3 +11,5 @@ And like almost every one my favorite thing to do is:
 I was scared at the beginning to change for the programming path because its like ~learning chines~ for me but as a person that enjoy the challenges it gives me the motivation to do needed the effort to become good at it.
 
 [my github account](https://github.com/Batoolayyad)
+
+**growth mindset** [growth mindset](https://batoolayyad.github.io/reading-notes/growth-mindset)
