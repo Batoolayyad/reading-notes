@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+html4
+<!DOCTYPE html PUBLIC
+"-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+Transitional XHTML 1.0
+<!DOCTYPE html PUBLIC
+"-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/
+ xhtml1-transitional.dtd">
+
+Strict XHTML 1.0
+<!DOCTYPE html PUBLIC
+"-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/
+ xhtml1-strict.dtd">
+
+XML Declaration
+<?xml version="1.0" ?>
+
+
+** comments on Html <!--comment-->
+
+** ID attribute; to y identify that element from other elements on the page <p id="nomber1"> part of a paragragh </p>
+ 
