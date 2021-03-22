@@ -24,3 +24,4 @@ I was scared at the beginning to change for the programming path because its lik
 |         read3            | [read3](read3.md)                    |
 |         read04a          | [read04a](read04a.md)                |
 |         read05           | [read05](read05.md)                  |
+|         read06           | [read06](read06.md)                  |
