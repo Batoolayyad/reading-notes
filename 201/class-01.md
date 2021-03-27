@@ -60,7 +60,38 @@ They both are used to give the elements uniquely identifying, which can be helpf
 * Block elements are the elements the always start at new line.
 * inline element are the element the start at the same line for the previous element.  
 
+### what are semantic elements ? and why they are important?
+When a browser communicates with the code, it looks for some specific information to help with the display. Hence, HTML5 introduced a consistent list of semantic elements to help search engines and developers.
+
+HTML5 semantic tags define the purpose of the element. By using semantic markup, you help the browser understand the meaning of the content instead of just displaying it. By providing this extra level of clarity, HTML5 semantic elements also help search engines to read the page and find the required information faster.[bitdegree](https://www.bitdegree.org/learn/html5-semantic-tags)
+
+|        smantic element           |          description                                                        |
+|----------------------------------|-----------------------------------------------------------------------------|
+| &lt;header&gt;                   | a header of your document, It is shown at the top of the page               |
+| &lt;nav&gt;                      | represent the space for navigation links                                    |
+| &lt;section&gt;                  | define a separate section within a webpage                                  |
+| &lt;artical&gt;                  | define artical content in the webpag                                        |
+| &lt;aside&gt;                    | defines the content which will be set to the side                           |
+| &lt;footor&gt;                   | describes the footnote for your website                                     |
+| &lt;main&gt;                     | main content of a page                                                      |
+| &lt;img&gt;                      | to add image to the website                                                 |
+| &lt;table&gt;                    | to creat table with rows and columns                                        |
 
 
+![comparing between html5&html4](https://s3.amazonaws.com/viking_education/web_development/web_app_eng/html5_sectioning_high_level.jpg)
 
+## JAVA SCRIPT: 
+is an asynchronous, dynamicaly- typed, interpreted scripting language, designed to make web pages dynamic and interactive.
+
+### What is a script and how we creat it ?
+[javascript and jquery](https://slack-files.com/files-pri-safe/TNGRRLUMA-F01RRT6PRF0/javascript_and_jquery_interactive_jon_du.pdf?c=1616835435-d7b9f75479fd44fb)
+* A script is a series of instructions that the computer can follow in order to achieve a goal. 
+* Each time the script runs, it might only use a subset of all the instructions. 
+* Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically. 
+* To approach writing a script, break down your goal into  a series of tasks and then work out each step needed to complete that task (a flowchart can help).
+
+## how do you write a scripte for a web page?
+the best way to start is to make a file (app.js) it is better to keep the JS & CSS files separated from the HTML index file, then we can link them to the html file.
+![link CSS file inside html file](https://www.bitdegree.org/learn/storage/media/images/8c4493d3-110c-4a95-8b70-7626ce2d2f4e.jpg)
+![link js inside html code](https://miro.medium.com/max/1654/1*09O6SLImZJDdwEaVae951g.png)
 
