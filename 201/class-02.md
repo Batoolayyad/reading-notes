@@ -2,7 +2,6 @@
 we use tage called mark up to give more informaition about the content and for the browser
 
 
-
 |            tags                 |               description                                                                  | 
 |---------------------------------|--------------------------------------------------------------------------------------------|
 | headings                        | html has six levels of heading &lt;h1: main heading…h6: the smallest&gt;                   |
