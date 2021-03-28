@@ -1,4 +1,4 @@
-#TEXT in HTML
+# TEXT in HTML
 we use tage called mark up to give more informaition about the content and for the browser
 |            tags                       |               description                                                                              | 
 |---------------------------------------|--------------------------------------------------------------------------------------------------------|
