@@ -1,14 +1,14 @@
 #TEXT in HTML
 we use tage called mark up to give more informaition about the content and for the browser
-|            tags             |                                 description                                                            | 
-|-----------------------------|--------------------------------------------------------------------------------------------------------|
-| headings                    | html has six levels of heading &lt;h1: main heading…h6: the smallest&gt;                               |
-| Paragraphs &lt;p&gt;        | contain a paragraphs inside its closing and opening tags                                               |
-| **Bold**, *Italic*          | &lt;b&gt; , &lt;i&gt;                                                                                  | 
-| &lt;s&gt;                   | indicate that is no longer there, ex:  when get cross over an old price in Ad.                         |
-| &lt;sup&gt; , &lt;sub&gt;   | contain the element that is superscript or subscript                                                   |
-| &lt;br&gt;                  | line break inside a paragraph                                                                          |
-| &lt;hr&gt;                  | horizontal rule between sections                                                                       |
+|            tags                       |               description                                                                              | 
+|---------------------------------------|--------------------------------------------------------------------------------------------------------|
+| headings                              | html has six levels of heading &lt;h1: main heading…h6: the smallest&gt;                               |
+| Paragraphs &lt;p&gt;                  | contain a paragraphs inside its closing and opening tags                                               |
+| **Bold**, *Italic*                    | &lt;b&gt; , &lt;i&gt;                                                                                  | 
+| &lt;s&gt;                             | indicate that is no longer there, ex:  when get cross over an old price in Ad.                         |
+| &lt;sup&gt; , &lt;sub&gt;             | contain the element that is superscript or subscript                                                   |
+| &lt;br&gt;                            | line break inside a paragraph                                                                          |
+| &lt;hr&gt;                            | horizontal rule between sections                                                                       |
 
 **Semantic mark up**
 * strong :we add it to indicat an important content 
