@@ -9,10 +9,10 @@ head and body
   
 
 HTML uses elements has main components, whiches:
--opening tag
--closing tag
--content within the tags
--attributes of the tag; Attributes provide additional information about the contents of an element , it is written on the opening tag and has contain of two parts name and value,ex: name="value"
+- opening tag
+- closing tag
+- content within the tags
+- attributes of the tag; Attributes provide additional information about the contents of an element , it is written on the opening tag and has contain of two parts name and value,ex: name="value"
 
  
 there are different versions of the HTML and before we start coding we shuold add the version that we work on on the top of our code for the browser
@@ -20,8 +20,8 @@ there are different versions of the HTML and before we start coding we shuold ad
 html5 ,html4 ,Transitional XHTML 1.0 ,Strict XHTML 1.0 ,XML Declaration 
 
 some common attributes:
--ID attribute; to identify that element from other elements on the page  part of a paragragh 
--class attribute; to identify several elements as being different from the other elements on the page 
+- ID attribute; to identify that element from other elements on the page  part of a paragragh 
+- class attribute; to identify several elements as being different from the other elements on the page 
 
 block elements & inline elements:
 block elements start on a new line in the browser window while inline elements appear to continue on the same line as their neighbouring elements.
