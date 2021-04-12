@@ -4,7 +4,7 @@
 
 by using the script included in your page with a single &lt;canvas&gt; node to render the chart.
  
-* example: create a bar chart for a single dataset and render that in our page;
+- example: create a bar chart for a single dataset and render that in our page;
 [chartjs.org](https://www.chartjs.org/docs/latest/)
 ``` html
 <canvas id="myChart" width="400" height="400"></canvas>
@@ -51,17 +51,29 @@ var myChart = new Chart(ctx, {
 ## how we write it ?
 the canvas tag has two attributes (height , width)
 
+
+
+
 ```html
 <canvas id="tutorial" width="150" height="150"></canvas>
 ```
-* the canvas will initially be 300 pixels wide and 150 pixels high you can change it by css.
 
 
-* and you can stylet like other element.
+
+
+- the canvas will initially be 300 pixels wide and 150 pixels high you can change it by css.
+
+
+- and you can stylet like other element.
 
 ## How to style canvas?
  to apply colors to a shape, there are two important properties we can use: 
- * fillStyle=colore: Sets the style used when filling shapes.
+ - fillStyle=colore: Sets the style used when filling shapes.
+
+
+
+
+
 
  ```html
  function draw() {
@@ -76,7 +88,13 @@ the canvas tag has two attributes (height , width)
 }
 ```
 
- * strokeStyle=colore: Sets the style for shapes' outlines.
+
+
+
+ - strokeStyle=colore: Sets the style for shapes' outlines.
+ 
+ 
+ 
  ```html
  function draw() {
     var ctx = document.getElementById('canvas').getContext('2d');
@@ -99,6 +117,10 @@ The canvas rendering context provides two methods to render text:
 
 - fillText(text, x, y [, maxWidth])
 Fills a given text at the given (x,y) position. Optionally with a maximum width to draw.
+
+
+
+
 ```html
 function draw() {
   var ctx = document.getElementById('canvas').getContext('2d');
@@ -106,6 +128,9 @@ function draw() {
   ctx.fillText('Hello world', 10, 50);
 }
 ```
+
+
+
 - strokeText(text, x, y [, maxWidth])
 Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.
 ```html
