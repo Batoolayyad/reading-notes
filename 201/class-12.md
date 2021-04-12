@@ -4,8 +4,11 @@
 
 by using the script included in your page with a single &lt;canvas&gt; node to render the chart.
  
-- example: create a bar chart for a single dataset and render that in our page;
-[chartjs.org](https://www.chartjs.org/docs/latest/)
+- example: create a bar chart for a single dataset and render that in our page
+
+
+
+
 ``` html
 <canvas id="myChart" width="400" height="400"></canvas>
 <script>
@@ -46,6 +49,10 @@ var myChart = new Chart(ctx, {
 });
 </script>
 ```
+[chartjs.org](https://www.chartjs.org/docs/latest/)
+
+
+
 
 # canvas
 ## how we write it ?
@@ -54,9 +61,9 @@ the canvas tag has two attributes (height , width)
 
 
 
-```html
-<canvas id="tutorial" width="150" height="150"></canvas>
-```
+
+&lt;canvas id="tutorial" width="150" height="150"&gt; &lt;/canvas&gt;
+
 
 
 
