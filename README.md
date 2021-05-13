@@ -1,5 +1,16 @@
-# Introducing my self
-# *BATOOL AYYAD*
+# Reading Notes:
+
+this repository was made to keep track of my observations and questions from the reading assignments throughout the course as a way to document and highlight your new knowledge.
+this repositoy includes the reading notes for:
+
+## Code 102 - Intro to Software Development
+## Code 201 - Foundations of Software Development
+## Code 301 - Intermediate Software Development
+## Code 401 - Advanced Software Development
+
+
+
+### brief bio:
 
 Hello!
 my name is **Batool**,
