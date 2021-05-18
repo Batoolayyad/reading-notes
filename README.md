@@ -60,16 +60,16 @@ I was scared at the beginning to change for the programming path because its lik
 
 **Table of content for 301:**
 
-|        assignment       |        Link                            |
-|-------------------------|----------------------------------------|   
-| class-1                 | [class-1](3001/class-1.md)             |
-| class-2                 | [class-2](301/class-2.md)              |
-| class-3                 | [class-3](301/class-3.md)              |
-| class-4                 | [class-4](301/class-4.md)              |
-| class-5                 | [class-5](201/class-5.md)              |
-| class-6                 | [class-6](201/class-6.md)              |
-| class-7                 | [class-7](201/class-7.md)              |
-| class-8                 | [class-8](201/class-8.md)              |
+|        assignment       |        Link                             |
+|-------------------------|-----------------------------------------|   
+| class-1                 | [class-1](3001/class-1.md)              |
+| class-2                 | [class-2](3001/class-2.md)              |
+| class-3                 | [class-3](3001/class-3.md)              |
+| class-4                 | [class-4](3001/class-4.md)              |
+| class-5                 | [class-5](3001/class-5.md)              |
+| class-6                 | [class-6](3001/class-6.md)              |
+| class-7                 | [class-7](3001/class-7.md)              |
+| class-8                 | [class-8](3001/class-8.md)              |
 
 
 
