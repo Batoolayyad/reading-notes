@@ -140,4 +140,14 @@ it works the same as IF statement but for switch we can add more then one variab
  ![loops](https://slidetodoc.com/presentation_image_h/ea31c3f96b49add5f3671309afeadd81/image-11.jpg)
   
 
+# Pass Functions Between Components
 
+
+### In the video, what is the first step that the developer does to pass functions between components?
+creat the function wherever the state that we are going to change
+### In your own words, what does the increment function do?
+receiving the arrays item, loop through the array and find the matching one to update
+### How can you pass a method from a parent component into a child component?
+by passing it as passing it as a props
+### How does the child component invoke a method that was passed to it from a parent component?
+by using special attribute that attach to the component ( Refs. React)
