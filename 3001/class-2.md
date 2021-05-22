@@ -44,7 +44,7 @@ set up any subscriptions
 
 ## What is the big difference between props and state? 
 
-props are handled outside of the component, the state inside it 
+*props* are handled outside of the component, the *state* inside it 
 
 
 ## When do we re-render our application? 
@@ -54,4 +54,4 @@ when we want to change something in the application
 
 ## What are some examples of things that we could store in state? 
 
-all types of data 
+**all types of data** 
