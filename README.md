@@ -70,6 +70,9 @@ I was scared at the beginning to change for the programming path because its lik
 | class-6                 | [class-6](3001/class-6.md)              |
 | class-7                 | [class-7](3001/class-7.md)              |
 | class-8                 | [class-8](3001/class-8.md)              |
+| class-9                 | [class-9](3001/class-9.md)              |
+| class-10                | [class-10](3001/class-10.md)            |
+| class-11                | [class-11](3001/class-11.md)            |
 
 
 
