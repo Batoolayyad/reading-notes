@@ -74,6 +74,8 @@ I was scared at the beginning to change for the programming path because its lik
 | class-10                | [class-10](3001/class-10.md)            |
 | class-11                | [class-11](3001/class-11.md)            |
 | class-12                | [class-12](3001/class-12.md)            |
+| class-13                | [class-13](3001/class-13.md)            |
+| class-14                | [class-14](3001/class-14.md)            |
 
 
 ## Things I want to know more about
