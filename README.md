@@ -83,6 +83,7 @@ I was scared at the beginning to change for the programming path because its lik
 
 |        assignment       |        Link                             |
 |-------------------------|-----------------------------------------|   
+| pre-work                | [class-1](4001/pre-work.md)             |
 | class-1                 | [class-1](4001/class-1.md)              |
 | class-2                 | [class-2](4001/class-2.md)              |
 | class-3                 | [class-3](4001/class-3.md)              |
