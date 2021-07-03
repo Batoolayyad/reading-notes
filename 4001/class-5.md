@@ -59,4 +59,3 @@ One characteristic of linked lists is that they are **linear data structures**, 
 
 differentiator between **arrays** and linked lists is the way that they use memory when array is created, it needs a certain amount of memory and it need to be in order one byte next to the another, all together, in one place.on the other hands **linked list** One byte could live somewhere, while the next byte could be stored in another place in memory altogether.
 
-
