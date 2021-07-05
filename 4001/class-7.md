@@ -81,3 +81,38 @@ The authorization code grant is used when an application exchanges an authorizat
 #### Access Token
 [oauth](https://www.oauth.com/oauth2-servers/access-tokens/)
 the thing that applications use to make API requests on behalf of a user. The access token represents the authorization of a specific application to access specific parts of a user’s data.
+
+
+
+## JSON Web Token
+[jwt](https://jwt.io/introduction/)
+### What is JSON Web Token?
+
+
+JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object.
+
+### When should you use JSON Web Tokens?
+
+- **Authorization**: Once the user is logged in, each subsequent request will include the JWT, allowing the user to access routes, services, and resources that are permitted with that token.
+
+- **Information Exchange**:  good way of securely transmitting information between parties.
+
+### What is the JSON Web Token structure?
+- Header
+- Payload
+- Signature
+
+
+## If you can decode JWT, how are they secure?
+[If you can decode JWT, how are they secure?](https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure)
+WTs can be either signed, encrypted or both. If a token is signed, but not encrypted, everyone can read its contents, but when you don’t know the private key, you can’t change it. Otherwise, the receiver will notice that the signature won’t match anymore.
+
+to understand digital signatures? I’ll just briefly explain one variant (HMAC, which is symmetrical, but there are many others).
+
+Let’s assume Alice wants to send a JWT to Bob. They both know some shared secret. Mallory doesn’t know that secret, but wants to interfere and change the JWT. To prevent that, Alice calculates Hash(payload + secret) and appends this as signature.
+
+When receiving the message, Bob can also calculate Hash(payload + secret) to check whether the signature matches. If however, Mallory changes something in the content, she isn't able to calculate the matching signature (which would be Hash(newContent + secret)). She doesn't know the secret and has no way of finding it out. This means if she changes something, the signature won't match anymore, and Bob will simply not accept the JWT anymore.
+
+Let's suppose, I send another person the message {"id":1} and sign it with Hash(content + secret). (+ is just concatenation here). I use the SHA256 Hash function, and the signature I get is: 330e7b0775561c6e95797d4dd306a150046e239986f0a1373230fda0235bda8c. Now it's your turn: play the role of Mallory and try to sign the message {"id":2}. You can't because you don't know which secret I used. If I suppose that the recipient knows the secret, he CAN calculate the signature of any message and check if it's correct.
+
+
