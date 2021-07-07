@@ -83,7 +83,7 @@ I was scared at the beginning to change for the programming path because its lik
 
 |        assignment       |        Link                             |
 |-------------------------|-----------------------------------------|   
-| pre-work                | [pre-work](4001/pre-work.md)             |
+| pre-work                | [pre-work](4001/pre-work.md)            |
 | class-1                 | [class-1](4001/class-1.md)              |
 | class-2                 | [class-2](4001/class-2.md)              |
 | class-3                 | [class-3](4001/class-3.md)              |
@@ -98,6 +98,6 @@ I was scared at the beginning to change for the programming path because its lik
 | class-12                | [class-12](4001/class-12.md)            |
 | class-13                | [class-13](4001/class-13.md)            |
 | class-14                | [class-14](4001/class-14.md)            |
-
+| stacks-queues           | [stacks-queues](4001/stacks-queues.md)  |
 
 ## Things I want to know more about
