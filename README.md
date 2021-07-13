@@ -98,6 +98,10 @@ I was scared at the beginning to change for the programming path because its lik
 | class-12                | [class-12](4001/class-12.md)            |
 | class-13                | [class-13](4001/class-13.md)            |
 | class-14                | [class-14](4001/class-14.md)            |
-| stacks-queues           | [stacks-queues](4001/stacks-queues.md)  |
+| class-15                | [class-15](4001/class-15.md)            |
+| class-16                | [class-15](4001/class-16.md)            |
+| class-17                | [class-15](4001/class-16.md)            |
+| class-18                | [class-15](4001/class-16.md)            |
+
 
 ## Things I want to know more about
