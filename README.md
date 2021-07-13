@@ -100,8 +100,8 @@ I was scared at the beginning to change for the programming path because its lik
 | class-14                | [class-14](4001/class-14.md)            |
 | class-15                | [class-15](4001/class-15.md)            |
 | class-16                | [class-15](4001/class-16.md)            |
-| class-17                | [class-15](4001/class-16.md)            |
-| class-18                | [class-15](4001/class-16.md)            |
-
+| class-17                | [class-15](4001/class-17.md)            |
+| class-18                | [class-15](4001/class-18.md)            |
+| tree                    | [tree](4001/tree.md)                    |
 
 ## Things I want to know more about
