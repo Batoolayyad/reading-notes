@@ -98,10 +98,13 @@ I was scared at the beginning to change for the programming path because its lik
 | class-12                | [class-12](4001/class-12.md)            |
 | class-13                | [class-13](4001/class-13.md)            |
 | class-14                | [class-14](4001/class-14.md)            |
-| class-15                | [class-15](4001/class-15.md)            |
+| tree                    | [tree](4001/tree.md)                    |
 | class-16                | [class-15](4001/class-16.md)            |
 | class-17                | [class-15](4001/class-17.md)            |
 | class-18                | [class-15](4001/class-18.md)            |
-| tree                    | [tree](4001/tree.md)                    |
-
+| class-19                | [class-15](4001/class-19.md)            |
+| class-20                | [class-15](4001/class-20.md)            |
+| class-21                | [class-15](4001/class-21.md)            |
+| class-22                | [class-15](4001/class-22.md)            |
+| class-23                | [class-15](4001/class-23.md)            |
 ## Things I want to know more about
