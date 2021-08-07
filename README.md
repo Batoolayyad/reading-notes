@@ -103,10 +103,10 @@ I was scared at the beginning to change for the programming path because its lik
 | class-17                | [class-17](4001/class-17.md)            |
 | class-18                | [class-18](4001/class-18.md)            |
 | class-19                | [class-19](4001/class-19.md)            |
-| class-20                | [class-20](4001/class-20.md)            |
-| class-21                | [class-21](4001/class-21.md)            |
-| class-22                | [class-22](4001/class-22.md)            |
-| class-23                | [class-23](4001/class-23.md)            |
+| class-26                | [class-20](4001/class-26.md)            |
+| class-27                | [class-21](4001/class-27.md)            |
+| class-28                | [class-22](4001/class-28.md)            |
+| class-29                | [class-23](4001/class-29.md)            |
 
 
 
