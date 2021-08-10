@@ -107,6 +107,7 @@ I was scared at the beginning to change for the programming path because its lik
 | class-27                | [class-21](4001/class-27.md)            |
 | class-28                | [class-22](4001/class-28.md)            |
 | class-29                | [class-23](4001/class-29.md)            |
+| hash                    | [hash](4001/hash.md)                    |
 
 
 
