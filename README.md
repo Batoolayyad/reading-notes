@@ -111,6 +111,7 @@ I was scared at the beginning to change for the programming path because its lik
 | class-31                | [class-23](4001/class-31.md)            |
 | class-32                | [class-23](4001/class-32.md)            |
 | class-33                | [class-23](4001/class-33.md)            |
+| class-34                | [class-23](4001/class-34.md)            |
 
 
 
