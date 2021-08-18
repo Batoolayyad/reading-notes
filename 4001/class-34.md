@@ -26,3 +26,11 @@ Role-based access control (RBAC) is a policy-neutral access-control mechanism de
 [ref](https://en.wikipedia.org/wiki/HTTP_cookie) **http cookies**(also called web cookies, Internet cookies, browser cookies, or simply cookies) are small blocks of data created by a web server while a user is browsing a website and placed on the user's computer or other device by the user’s web browser. Cookies are placed on the device used to access a website, and more than one cookie may be placed on a user’s device during a session.
 
 Cookies serve useful and sometimes essential functions on the web.
+
+
+## An application programming interface (API)
+is a messenger that processes requests and ensures seamless functioning of enterprise systems. API enables interaction between data, applications, and devices. It delivers data and facilitates connectivity between devices and programs.
+
+API can also be defined as an online programming interface of the organization. It allows applications to communicate with backend systems.
+
+An application programming interface creates a channel for the company to sell its products and services online. API enables access of services by adding codes to applications. It further enhances connectivity and bolsters functionality.
