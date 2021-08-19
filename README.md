@@ -106,13 +106,14 @@ I was scared at the beginning to change for the programming path because its lik
 | class-26                | [class-20](4001/class-26.md)            |
 | class-27                | [class-21](4001/class-27.md)            |
 | class-28                | [class-22](4001/class-28.md)            |
-| class-29                | [class-23](4001/class-29.md)            |
+| class-29                | [class-29](4001/class-29.md)            |
 | hash                    | [hash](4001/hash.md)                    |
-| class-31                | [class-23](4001/class-31.md)            |
-| class-32                | [class-23](4001/class-32.md)            |
-| class-33                | [class-23](4001/class-33.md)            |
-| class-34                | [class-23](4001/class-34.md)            |
-| graphs                  | [class-23](4001/graphs.md)              |
+| class-31                | [class-31](4001/class-31.md)            |
+| class-32                | [class-32](4001/class-32.md)            |
+| class-33                | [class-33](4001/class-33.md)            |
+| class-34                | [class-34](4001/class-34.md)            |
+| graphs                  | [graphs](4001/graphs.md)                |
+| class-36                | [class-36](4001/class-36.md)            |
 
 
 
