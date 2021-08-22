@@ -114,6 +114,7 @@ I was scared at the beginning to change for the programming path because its lik
 | class-34                | [class-34](4001/class-34.md)            |
 | graphs                  | [graphs](4001/graphs.md)                |
 | class-36                | [class-36](4001/class-36.md)            |
+| class-37                | [class-37](4001/class-37.md)            |
 
 
 
